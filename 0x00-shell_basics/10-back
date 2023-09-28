@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x change_to_previous_dir.sh
+cd ..
